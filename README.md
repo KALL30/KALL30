@@ -1,16 +1,29 @@
-### Hi there 👋
+### Olá!, meu nome é Kalleo sales, Como vai?
 
-<!--
-**KALL30/KALL30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como free-lancer.
+- 🌱 Estou aprendendo novas tecnicas QA.
+- 👯 Almejo colaborar em uma grande empresa.
+- 😄 Ele/Dele.
+- ⚡ Sou curioso e autodidata.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kalleo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalleo&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <div> 
+ 
+  <a href = "https://www.instagram.com/kalleoogeorge/"><img src="https://img.icons8.com/material/24/000000/instagram-new--v1.png"/>
+ <a href="https://discord.com/channels/936644844896542721/936644845328552028" target="_blank"><img src="https://img.icons8.com/material/24/000000/discord.png"/>
+  <a href = "kalleosales12@gmail.com"><img src="https://img.icons8.com/glyph-neue/24/000000/gmail.png"/>
+  <a href="https://www.linkedin.com/in/kalleo-sales-130703225/" target="_blank"><img src="https://img.icons8.com/material/24/000000/linkedin--v1.png"/>
+  <div>
+    
+     
