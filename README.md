@@ -5,11 +5,10 @@
 - 👯 Almejo colaborar em uma grande empresa.
 - 😄 Ele/Dele.
 - ⚡ Sou curioso e autodidata.
-
  
- 
- 
- ● <img src="https://img.icons8.com/small/16/000000/instagram-new.png"/> ᴇɴᴛʀᴇ ᴇᴍ ᴄᴏɴᴛᴀɴᴛᴏ ᴄᴏᴍɪɢᴏ ᴘᴏʀ ᴀǫᴜɪ    
+ ●  ᴇɴᴛʀᴇ ᴇᴍ ᴄᴏɴᴛᴀɴᴛᴏ ᴄᴏᴍɪɢᴏ ᴘᴏʀ ᴀǫᴜɪ    
+ #
+ <img src="https://img.icons8.com/small/16/000000/instagram-new.png"/>
 
  
  
