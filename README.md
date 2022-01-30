@@ -9,8 +9,8 @@
  
  
  
-  ● ᴇɴᴛʀᴇ ᴇᴍ ᴄᴏɴᴛᴀɴᴛᴏ ᴄᴏᴍɪɢᴏ ᴘᴏʀ ᴀǫᴜɪ    
- <a href = "mailto:kalleosales12@gmail.com"><img src="https://img.icons8.com/glyph-neue/24/000000/gmail.png"/>
+ ●  <a href = "mailto:kalleosales12@gmail.com"><img src="https://img.icons8.com/glyph-neue/24/000000/gmail.png"/> ᴇɴᴛʀᴇ ᴇᴍ ᴄᴏɴᴛᴀɴᴛᴏ ᴄᴏᴍɪɢᴏ ᴘᴏʀ ᴀǫᴜɪ    
+
  
  
 
