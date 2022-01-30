@@ -33,6 +33,7 @@
    
    
   <a href = "https://www.instagram.com/kalleoogeorge/"><img src="https://img.icons8.com/material/24/000000/instagram-new--v1.png"/>
+   #
  <a href="https://discord.com/channels/936644844896542721/936644845328552028" target="_blank"><img src="https://img.icons8.com/material/24/000000/discord.png"/>
   <a href="https://www.linkedin.com/in/kalleo-sales-130703225/" target="_blank"><img src="https://img.icons8.com/material/24/000000/linkedin--v1.png"/>
   <div>
