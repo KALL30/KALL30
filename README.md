@@ -7,9 +7,7 @@
 - ⚡ Sou curioso e autodidata.
  
  ●  ᴇɴᴛʀᴇ ᴇᴍ ᴄᴏɴᴛᴀɴᴛᴏ ᴄᴏᴍɪɢᴏ ᴘᴏʀ ᴀǫᴜɪ    
- #
  <img src="https://img.icons8.com/small/16/000000/gmail-login.png"/>
- #
  <img src="https://img.icons8.com/small/16/000000/whatsapp.png"/>
 
  
